@@ -68,7 +68,7 @@ There are 9,496,342 cases in the patient data for 11 mental health services coll
 
 
 <p align="center">
-<img src="https://github.com/mill-ornrakorn/Spatiotemporal-epidemiology-and-analysis-of-mental-health-conditions-in-Thailand/blob/main/pic%20for%20readme/2.jpg?raw=true" alt= "barchart" height="400">
+<img src="https://github.com/mill-ornrakorn/Spatiotemporal-epidemiology-and-analysis-of-mental-health-conditions-in-Thailand/blob/main/pic%20for%20readme/2.jpg?raw=true" alt= "barchart" height="300">
 </br>
 <b>Figure 2</b> Total of the number of patients accessing services in Thailand since 2015-2021
 (per 100k population).
@@ -112,7 +112,7 @@ Silhouette coefficient (Figure 5B). In the elbow method, we can see a bend where
 = 3 in the left graph. In the right graph, it shows that the group of disorder is well-separated from other groups at K = 2 and K =
 3 due to the higher silhouette coefficient than the other number of clusters (K). It indicates that 2 and 3 are the optimal number of clusters. 
 <p align="center">
-<img src="https://github.com/mill-ornrakorn/Spatiotemporal-epidemiology-and-analysis-of-mental-health-conditions-in-Thailand/blob/main/pic%20for%20readme/9.jpg?raw=true" alt= "K-Prototype" height="400">
+<img src="https://github.com/mill-ornrakorn/Spatiotemporal-epidemiology-and-analysis-of-mental-health-conditions-in-Thailand/blob/main/pic%20for%20readme/9.jpg?raw=true" alt= "K-Prototype" height="300">
 </br>
 <b>Figure 5</b> The results of (A) finding the optimal number of clusters for K-prototype clustering using Elbow method and (B)
 Silhouette coefficient.
@@ -131,7 +131,7 @@ are well-separated from other disorders and have a comparable number of patients
 other
 
 <p align="center">
-<img src="https://github.com/mill-ornrakorn/Spatiotemporal-epidemiology-and-analysis-of-mental-health-conditions-in-Thailand/blob/main/pic%20for%20readme/10.jpg?raw=true" alt= "clusterreult" height="400">
+<img src="https://github.com/mill-ornrakorn/Spatiotemporal-epidemiology-and-analysis-of-mental-health-conditions-in-Thailand/blob/main/pic%20for%20readme/10.jpg?raw=true" alt= "clusterreult" height="150">
 </br>
 <b>Figure 6</b> The result of K-Prototype.
 
@@ -152,7 +152,7 @@ clusters.
 
 
 <p align="center">
-<img src="https://github.com/mill-ornrakorn/Spatiotemporal-epidemiology-and-analysis-of-mental-health-conditions-in-Thailand/blob/main/pic%20for%20readme/10.jpg?raw=true" alt= "clusterreult" height="400">
+<img src="https://github.com/mill-ornrakorn/Spatiotemporal-epidemiology-and-analysis-of-mental-health-conditions-in-Thailand/blob/main/pic%20for%20readme/10.jpg?raw=true" alt= "clusterreult" height="150">
 </br>
 <b>Figure 8</b> The result of Agglomerative hierarchical clustering.
 
@@ -160,7 +160,7 @@ clusters.
 - **Global Spatial Detection**
 
 <p align="center">
-<img src="https://github.com/mill-ornrakorn/Spatiotemporal-epidemiology-and-analysis-of-mental-health-conditions-in-Thailand/blob/main/pic%20for%20readme/7.jpg?raw=true" alt= "tableglobal" height="400">
+<img src="https://github.com/mill-ornrakorn/Spatiotemporal-epidemiology-and-analysis-of-mental-health-conditions-in-Thailand/blob/main/pic%20for%20readme/7.jpg?raw=true" alt= "tableglobal" height="300">
 </br>
 <b>Table 1</b> The value and p-value of Moran’s I hypothesis test of patients accessing mental health services in Thailand
 during 2015-2021 (per 100k population).
@@ -243,7 +243,7 @@ Thailand at the provincial level for a total of 7 years (2015-2021)
 
 ## Discussion 🔍
 
-n the discussion of spatial outcomes, it was found that the clusters of spatial autocorrelation patterns occurred in
+In the discussion of spatial outcomes, it was found that the clusters of spatial autocorrelation patterns occurred in
 various regions. For example, the major clusters of spatial autocorrelation depression were discovered in several northern
 provinces where the Mind organization provided information on Seasonal Affective Disorder (SAD). SAD is a type of depression
 that occurs during specific seasons or times of year. Depression is characterized by a persistently low mood that interferes with
@@ -258,6 +258,7 @@ a hormone secreted by stress or anxiety. Cortisol levels are higher in the summe
 region of Thailand has the highest average temperature. A rise in temperature can also cause agitation, palpitations, nausea, and
 fatigue, which is a common anxiety symptom. There are other disorders that were not discussed because there is limited
 information.
+
 From all the methods we used (correlation matrix, K-prototype clustering, and agglomerative hierarchical clustering),
 there are three groups of disorders that cluster based on characteristics of the number of patients accessing mental health
 services in every province from 2015-2021.
@@ -266,7 +267,6 @@ are highly correlated due to the fact that abusing alcohol has a potential risk 
 cocaine, and heroin (at least one) (53). For the association between Alcoholic and Epilepsy, the available evidence suggests
 that the prevalence of epilepsy among alcoholics is at least triple that in the general population, and that alcoholism may be
 more prevalent among epileptic patients than in the general population (54).
-
 
 The second group includes Schizophrenia, Depression and Anxiety disorder. From the result of the correlation, it was
 found that Schizophrenia and Anxiety disorder are more highly correlated than Schizophrenia and Depression. In this research,
@@ -280,6 +280,7 @@ anxiety disorders. There was also a relationship between schizophrenia and depre
 compared to schizophrenia and anxiety disorders. Therefore, when diagnosed with this type of disorder, it is less likely to be
 identified as schizophrenia (57). But when diagnosed with schizophrenia, depression may also be present. Therefore, the
 correlation calculation showed that the correlation was low.
+
 The last group includes Intellectual disabilities, Learning disabilities, Autistic disorder, Self-harm and Dementia. The
 correlation coefficient between Autistic disorder and Intellectual disabilities is higher than the correlation coefficient between
 Autistic disorder and Learning disabilities because Intellectual disabilities are the most common co-occurring disorder with
@@ -290,6 +291,7 @@ disability alone (7.10%), but was also considerably higher among people with ASD
 disability (5.22%) than among the healthy population (0.97%) (59). For the association with Self-harm, the study of Blanchard et
 al. shows that Autistic disorder was associated with a substantially increased risk of self-injurious behaviors and suicidality, and
 people with Autistic disorder had 2.26-times higher odds of self-harm than those without ASD (60).
+
 There are several limitations to this study. First, the data source was a mental health accessed services report and
 stigmatization of mental disorders may prevent patients from seeking treatment. Therefore, the number of patients accessing
 mental health services may not be the same as the actual number of patients that occur. Furthermore, the number and
@@ -307,6 +309,38 @@ The results of this study provided information about the spatiotemporal characte
 
 ## References 📖
 
+50. What is seasonal affective disorder (SAD)? [Internet]. [cited 2022 Jul 24]. Available from:
+https://www.mind.org.uk/information-support/types-of-mental-health-problems/seasonal-affective-disorder-sad/about-sad/
+
+51. Jandeang B. Analysis of Current Drug Situation Problem. Journal of Research and Development Institute,Rajabhat Maha
+Sarakham University. 2017;4(2):37–56.
+52. Geall L, Crockett M. You’re not imagining it: hot weather really can make anxiety worse – here’s how to deal with it
+27
+[Internet]. Stylist. The Stylist Group; 2022 [cited 2022 Jul 24]. Available from:
+https://www.stylist.co.uk/life/summer-anxiety-makes-worse-heat-wave-social-causes-symptoms-advice/219735
+53. Galbicsek C. Drinking And Drugs [Internet]. Alcohol Rehab Guide. [cited 2022 Jul 19]. Available from:
+https://www.alcoholrehabguide.org/alcohol/drinking-drugs/
+54. Chan AWK. Alcoholism and Epilepsy [Internet]. Vol. 26, Epilepsia. 1985. p. 323–33. Available from:
+http://dx.doi.org/10.1111/j.1528-1157.1985.tb05658.x
+55. Chaudhury S, Kiran C. Prevalence of comorbid anxiety disorders in schizophrenia [Internet]. Vol. 25, Industrial Psychiatry
+Journal. 2016. p. 35. Available from: http://dx.doi.org/10.4103/0972-6748.196045
+56. Grillo L. A Possible Link between Anxiety and Schizophrenia and a Possible Role of Anhedonia [Internet]. Vol. 2018,
+Schizophrenia Research and Treatment. 2018. p. 1–8. Available from: http://dx.doi.org/10.1155/2018/5917475
+57. Tandon R, Gaebel W, Barch DM, Bustillo J, Gur RE, Heckers S, et al. Definition and description of schizophrenia in the
+DSM-5. Schizophr Res [Internet]. 2013 Oct;150(1):3–10. Available from: http://dx.doi.org/10.1016/j.schres.2013.05.028
+58. Matson JL, Shoemaker M. Intellectual disability and its relationship to autism spectrum disorders [Internet]. Vol. 30,
+Research in Developmental Disabilities. 2009. p. 1107–14. Available from: http://dx.doi.org/10.1016/j.ridd.2009.06.003
+59. Vivanti G, Tao S, Lyall K, Robins DL, Shea LL. The prevalence and incidence of early-onset dementia among adults with
+autism spectrum disorder. Autism Res [Internet]. 2021 Oct;14(10):2189–99. Available from:
+http://dx.doi.org/10.1002/aur.2590
+60. Blanchard A, Chihuri S, DiGuiseppi CG, Li G. Risk of Self-harm in Children and Adults With Autism Spectrum Disorder: A
+Systematic Review and Meta-analysis. JAMA Netw Open [Internet]. 2021 Oct 1;4(10):e2130272. Available from:
+http://dx.doi.org/10.1001/jamanetworkopen.2021.30272
+61. Kang H. The prevention and handling of the missing data [Internet]. Vol. 64, Korean Journal of Anesthesiology. 2013. p. 402. Available from: http://dx.doi.org/10.4097/kjae.2013.64.5.402
+62. Ellis ME. The importance of a complete diagnosis: Managing multiple mental illnesses [Internet]. Constellation Behavioral
+Health. [cited 2022 Jul 18]. Available from:
+https://www.constellationbehavioralhealth.com/blog/the-importance-of-a-complete-diagnosis-managing-multiple-mental-il
+lnesses/
 
 
 
