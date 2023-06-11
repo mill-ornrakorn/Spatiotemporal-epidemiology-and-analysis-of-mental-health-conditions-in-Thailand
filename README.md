@@ -248,13 +248,13 @@ various regions. For example, the major clusters of spatial autocorrelation depr
 provinces where the Mind organization provided information on Seasonal Affective Disorder (SAD). SAD is a type of depression
 that occurs during specific seasons or times of year. Depression is characterized by a persistently low mood that interferes with
 daily activities. If you have SAD, you will experience depression during certain seasons or due to certain types of weather or
-temperature. It is available in both winter and summer (50). That is why the North has a large number of patient depressive
+temperature. It is available in both winter and summer [(50)](https://www.mind.org.uk/information-support/types-of-mental-health-problems/seasonal-affective-disorder-sad/about-sad/). That is why the North has a large number of patient depressive
 services compared to other regions. The second disorder is drug addiction. According to an analysis of the current drug situation
 in 2017, most of the northern regions, especially the fringe areas, are conducive to the smuggling of drugs from neighboring
-countries that produce drugs, namely countries. Laos, Myanmar, and Cambodia (51). As a result, it may be the cause of the drug
+countries that produce drugs, namely countries. Laos, Myanmar, and Cambodia [(51)](https://so03.tci-thaijo.org/index.php/rdirmu/article/view/209737). As a result, it may be the cause of the drug
 epidemic and a large number of patients seeking drug addiction services in the north. Then there was the cluster of spatial
 autocorrelation anxiety disorders, which were mostly found in the Northeast. It's a very hot climate. A description of cortisol: it's
-a hormone secreted by stress or anxiety. Cortisol levels are higher in the summer than in the winter (52). The northeastern
+a hormone secreted by stress or anxiety. Cortisol levels are higher in the summer than in the winter [(52)](https://www.stylist.co.uk/life/summer-anxiety-makes-worse-heat-wave-social-causes-symptoms-advice/219735). The northeastern
 region of Thailand has the highest average temperature. A rise in temperature can also cause agitation, palpitations, nausea, and
 fatigue, which is a common anxiety symptom. There are other disorders that were not discussed because there is limited
 information.
@@ -264,41 +264,41 @@ there are three groups of disorders that cluster based on characteristics of the
 services in every province from 2015-2021.
 The first group includes Alcoholism, Drug addiction (excluding Amphetamine addiction), and Epilepsy. These disorders
 are highly correlated due to the fact that abusing alcohol has a potential risk of other substance use, such as marijuana,
-cocaine, and heroin (at least one) (53). For the association between Alcoholic and Epilepsy, the available evidence suggests
+cocaine, and heroin (at least one) [(53)](https://www.alcoholrehabguide.org/alcohol/drinking-drugs/). For the association between Alcoholic and Epilepsy, the available evidence suggests
 that the prevalence of epilepsy among alcoholics is at least triple that in the general population, and that alcoholism may be
-more prevalent among epileptic patients than in the general population (54).
+more prevalent among epileptic patients than in the general population [(54)](http://dx.doi.org/10.1111/j.1528-1157.1985.tb05658.x).
 
 The second group includes Schizophrenia, Depression and Anxiety disorder. From the result of the correlation, it was
 found that Schizophrenia and Anxiety disorder are more highly correlated than Schizophrenia and Depression. In this research,
 the prevalence of anxiety disorders was studied. The incidence of anxiety disorders was 45.16% in schizophrenia compared to
 controls. The research findings show that anxiety disorders are higher in schizophrenia than in the general population. It is also
-said that symptoms of anxiety tend to precede symptoms of schizophrenia (55). Likewise, the Conrad and Chapman study
-found that anxiety disorders are one of the early causes of schizophrenia (56). On the other hand, anxiety disorders may occur
+said that symptoms of anxiety tend to precede symptoms of schizophrenia [(55)](http://dx.doi.org/10.4103/0972-6748.196045). Likewise, the Conrad and Chapman study
+found that anxiety disorders are one of the early causes of schizophrenia [(56)](http://dx.doi.org/10.1155/2018/5917475). On the other hand, anxiety disorders may occur
 after treatment for schizophrenia due to concerns in daily life. The stress of being judged because of admission for
 schizophrenia is not widely accepted by society. This is reason enough to explain the relationship between schizophrenia and
 anxiety disorders. There was also a relationship between schizophrenia and depression. which had lower correlation values
 compared to schizophrenia and anxiety disorders. Therefore, when diagnosed with this type of disorder, it is less likely to be
-identified as schizophrenia (57). But when diagnosed with schizophrenia, depression may also be present. Therefore, the
+identified as schizophrenia [(57)](http://dx.doi.org/10.1016/j.schres.2013.05.028). But when diagnosed with schizophrenia, depression may also be present. Therefore, the
 correlation calculation showed that the correlation was low.
 
 The last group includes Intellectual disabilities, Learning disabilities, Autistic disorder, Self-harm and Dementia. The
 correlation coefficient between Autistic disorder and Intellectual disabilities is higher than the correlation coefficient between
 Autistic disorder and Learning disabilities because Intellectual disabilities are the most common co-occurring disorder with
-Autistic disorder, and the greater severity of one of these two disorders appears to have effects on the other disorder (58).
+Autistic disorder, and the greater severity of one of these two disorders appears to have effects on the other disorder [(58)](http://dx.doi.org/10.1016/j.ridd.2009.06.003).
 Dementia correlates with Autistic disorder and also correlates with Intellectual Disabilities. Vivanti et al. used US medical
 insurance records for 1.2 million individuals aged 30–64 years. The prevalence was highest among people with intellectual
 disability alone (7.10%), but was also considerably higher among people with ASD (4.04%) and people with ASD and intellectual
-disability (5.22%) than among the healthy population (0.97%) (59). For the association with Self-harm, the study of Blanchard et
+disability (5.22%) than among the healthy population (0.97%) [(59)](http://dx.doi.org/10.1002/aur.2590). For the association with Self-harm, the study of Blanchard et
 al. shows that Autistic disorder was associated with a substantially increased risk of self-injurious behaviors and suicidality, and
-people with Autistic disorder had 2.26-times higher odds of self-harm than those without ASD (60).
+people with Autistic disorder had 2.26-times higher odds of self-harm than those without ASD [(60)](http://dx.doi.org/10.1001/jamanetworkopen.2021.30272).
 
 There are several limitations to this study. First, the data source was a mental health accessed services report and
 stigmatization of mental disorders may prevent patients from seeking treatment. Therefore, the number of patients accessing
 mental health services may not be the same as the actual number of patients that occur. Furthermore, the number and
 location of mental health services in each province may affect the difficulty of accessing the service and may explain why the
 number of patients accessing mental health services is low. Another limitation is that Bangkok Metropolis's mental health
-accessed services data was missing in 2017. Missing data can reduce the efficiency of statistical analysis (61). Moreover, many
-people may have more than one mental health diagnosis (62). All of the above limitations can cause bias in the data. As for the
+accessed services data was missing in 2017. Missing data can reduce the efficiency of statistical analysis [(61)](http://dx.doi.org/10.4097/kjae.2013.64.5.402). Moreover, many
+people may have more than one mental health diagnosis [(62)](https://www.constellationbehavioralhealth.com/blog/the-importance-of-a-complete-diagnosis-managing-multiple-mental-illnesses/). All of the above limitations can cause bias in the data. As for the
 future work, we desired to reduce the limitations to the least.
 
 
@@ -312,35 +312,40 @@ The results of this study provided information about the spatiotemporal characte
 50. What is seasonal affective disorder (SAD)? [Internet]. [cited 2022 Jul 24]. Available from:
 https://www.mind.org.uk/information-support/types-of-mental-health-problems/seasonal-affective-disorder-sad/about-sad/
 
-51. Jandeang B. Analysis of Current Drug Situation Problem. Journal of Research and Development Institute,Rajabhat Maha
-Sarakham University. 2017;4(2):37–56.
-52. Geall L, Crockett M. You’re not imagining it: hot weather really can make anxiety worse – here’s how to deal with it
-27
-[Internet]. Stylist. The Stylist Group; 2022 [cited 2022 Jul 24]. Available from:
-https://www.stylist.co.uk/life/summer-anxiety-makes-worse-heat-wave-social-causes-symptoms-advice/219735
+51. Jandeang B. Analysis of Current Drug Situation Problem [Internet]. Journal of Research and Development Institute,Rajabhat Maha Sarakham University. 2017;4(2):37–56. Available from: https://so03.tci-thaijo.org/index.php/rdirmu/article/view/209737
+
+52. Geall L, Crockett M. You’re not imagining it: hot weather really can make anxiety worse – here’s how to deal with it 27 [Internet]. Stylist. The Stylist Group; 2022 [cited 2022 Jul 24]. Available from: https://www.stylist.co.uk/life/summer-anxiety-makes-worse-heat-wave-social-causes-symptoms-advice/219735
+
 53. Galbicsek C. Drinking And Drugs [Internet]. Alcohol Rehab Guide. [cited 2022 Jul 19]. Available from:
 https://www.alcoholrehabguide.org/alcohol/drinking-drugs/
+
 54. Chan AWK. Alcoholism and Epilepsy [Internet]. Vol. 26, Epilepsia. 1985. p. 323–33. Available from:
 http://dx.doi.org/10.1111/j.1528-1157.1985.tb05658.x
+
 55. Chaudhury S, Kiran C. Prevalence of comorbid anxiety disorders in schizophrenia [Internet]. Vol. 25, Industrial Psychiatry
 Journal. 2016. p. 35. Available from: http://dx.doi.org/10.4103/0972-6748.196045
+
 56. Grillo L. A Possible Link between Anxiety and Schizophrenia and a Possible Role of Anhedonia [Internet]. Vol. 2018,
 Schizophrenia Research and Treatment. 2018. p. 1–8. Available from: http://dx.doi.org/10.1155/2018/5917475
+
 57. Tandon R, Gaebel W, Barch DM, Bustillo J, Gur RE, Heckers S, et al. Definition and description of schizophrenia in the
 DSM-5. Schizophr Res [Internet]. 2013 Oct;150(1):3–10. Available from: http://dx.doi.org/10.1016/j.schres.2013.05.028
+
 58. Matson JL, Shoemaker M. Intellectual disability and its relationship to autism spectrum disorders [Internet]. Vol. 30,
 Research in Developmental Disabilities. 2009. p. 1107–14. Available from: http://dx.doi.org/10.1016/j.ridd.2009.06.003
+
 59. Vivanti G, Tao S, Lyall K, Robins DL, Shea LL. The prevalence and incidence of early-onset dementia among adults with
 autism spectrum disorder. Autism Res [Internet]. 2021 Oct;14(10):2189–99. Available from:
 http://dx.doi.org/10.1002/aur.2590
+
 60. Blanchard A, Chihuri S, DiGuiseppi CG, Li G. Risk of Self-harm in Children and Adults With Autism Spectrum Disorder: A
 Systematic Review and Meta-analysis. JAMA Netw Open [Internet]. 2021 Oct 1;4(10):e2130272. Available from:
 http://dx.doi.org/10.1001/jamanetworkopen.2021.30272
+
 61. Kang H. The prevention and handling of the missing data [Internet]. Vol. 64, Korean Journal of Anesthesiology. 2013. p. 402. Available from: http://dx.doi.org/10.4097/kjae.2013.64.5.402
-62. Ellis ME. The importance of a complete diagnosis: Managing multiple mental illnesses [Internet]. Constellation Behavioral
-Health. [cited 2022 Jul 18]. Available from:
-https://www.constellationbehavioralhealth.com/blog/the-importance-of-a-complete-diagnosis-managing-multiple-mental-il
-lnesses/
+
+62. Ellis ME. The importance of a complete diagnosis: Managing multiple mental illnesses [Internet]. Constellation Behavioral Health. [cited 2022 Jul 18]. Available from:
+https://www.constellationbehavioralhealth.com/blog/the-importance-of-a-complete-diagnosis-managing-multiple-mental-illnesses/
 
 
 
