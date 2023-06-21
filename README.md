@@ -6,7 +6,7 @@ This study aims to:
 - Help Thai people **realize the importance** of mental disorders.
 - Provide an **overview of mental health** in Thailand.
 
-This study is part of the course CPE 301: Work Integrated Learning, in the Health Data Science program at King Mongkut's University of Technology Thonburi, during the third semester of the academic year 2021. It involves practical training with professionals in a company, hospital, or other health-related organization for a minimum of six weeks during the summer.
+This study is part of the course CPE 301: Work Integrated Learning, in the Health Data Science program at the Princess Srisavangavadhana College of Medicine, [Chulabhorn Royal Academy](https://www.cra.ac.th/th/home) and the Department of Computer Engineering, [King Mongkut's University of Technology Thonburi](https://www.kmutt.ac.th/en/), during the third semester of the academic year 2021. It involves practical training with professionals in a company, hospital, or other health-related organization for a minimum of six weeks during the summer.
 
 ### 🙋‍♀️Group (เกือบจะอ๋อ)
 1. [Papin Thanutchapat](https://github.com/Jappapin)
@@ -24,7 +24,7 @@ Mahidol-Oxford Tropical Medicine Research Unit (MORU) Faculty of Tropical Medici
 
 ## Data source 📁
 
-1. [Reported mental health service cases](https://dmh.go.th/report/datacenter/hdc/reds.asp) were  collected from the health data center (HDC), Department of Mental Health, Ministry of Public Health (MOPH). All the cases were aggregated yearly mental health service cases notified during the years 2015 to 2021 at the provincial level, classified into eighteen categories in the health data center, and only eleven categories were used in the study (Dementia, Alcoholism, Drug addiction (excluding Amphetamine addiction), Schizophrenia, Depression, Anxiety disorder, Intellectual disabilities, Learning disabilities, Autistic disorder, Self-harm, and Epilepsy). ICD-10 mental disorders were assigned the codes F00.X - F99.X. Case report data includes the year and province of diagnosis.
+1. [Reported mental health service cases](https://dmh.go.th/report/datacenter/dmh/) were  collected from the health data center (HDC), Department of Mental Health, Ministry of Public Health (MOPH). All the cases were aggregated yearly mental health service cases notified during the years 2015 to 2021 at the provincial level, classified into eighteen categories in the health data center, and only eleven categories were used in the study (Dementia, Alcoholism, Drug addiction (excluding Amphetamine addiction), Schizophrenia, Depression, Anxiety disorder, Intellectual disabilities, Learning disabilities, Autistic disorder, Self-harm, and Epilepsy). ICD-10 mental disorders were assigned the codes F00.X - F99.X. Case report data includes the year and province of diagnosis.
 
 2. [Thailand’s mid-year population statistics](https://stat.bora.dopa.go.th/stat/statnew/statMONTH/statmonth/#/mainpage) were collected from official statistics registration systems. This study was conducted in Thailand, which collected data on a population of approximately 70 million people across 77 provinces with different geographies.
 
@@ -64,7 +64,7 @@ Mahidol-Oxford Tropical Medicine Research Unit (MORU) Faculty of Tropical Medici
 </p>
 
 
-There are 9,496,342 cases in the patient data for 11 mental health services collected from the Department of Mental Health's data system between 2015 and 2021. As shown in Figure 1, the total number of cases is calculated per 100,000 population and displayed in line chart format. The graph's data can be displayed in two periods: The number of mental health services provided prior to the COVID-19 outbreak until COVID-19 was detected (2015-2019). The number of patients accessingmental health services for Depression, Autism, Alcoholism, and Drug addiction (excluding Amphetamine addiction) increased steadily until 2018 and then decreased. The COVID-19 period's alcohol-control measures are expected to reduce the number of alcoholism cases. The second section displays the number of patients accessing mental health services following the detection of COVID-19 (2020–2021), found that the number of patients Depression, Alcoholism, and Drug addiction are expected to rise slightly, in 2019
+There are 9,496,342 cases in the patient data for 11 mental health services collected from the Department of Mental Health's data system between 2015 and 2021. As shown in *Figure 1*, the total number of cases is calculated per 100,000 population and displayed in line chart format. The graph's data can be displayed in two periods: The number of mental health services provided prior to the COVID-19 outbreak until COVID-19 was detected (2015-2019). The number of patients accessingmental health services for Depression, Autism, Alcoholism, and Drug addiction (excluding Amphetamine addiction) increased steadily until 2018 and then decreased. The COVID-19 period's alcohol-control measures are expected to reduce the number of alcoholism cases. The second section displays the number of patients accessing mental health services following the detection of COVID-19 (2020–2021), found that the number of patients Depression, Alcoholism, and Drug addiction are expected to rise slightly, in 2019
 
 
 <p align="center">
@@ -74,7 +74,7 @@ There are 9,496,342 cases in the patient data for 11 mental health services coll
 (per 100k population).
 </p>
 
-Figure 2 depicts the percentage of the number of patients accessing mental health services in Thailand calculated per 100,000 population from 2015 to 2021. The total number of patients is 9,496,342 and is shown in bar chart format. Anxiety disorders, Schizophrenia, and Depression were the three disorders with the most mental health patients, with 2,259,434, 2,016,200, and 1,773,618 patients, respectively. Intellectual disabilities, Learning disabilities, and Self-harm were the three disorders with the fewest mental health patients, with 110,469, 118,088, and 147,807 patients, respectively.
+*Figure 2* depicts the percentage of the number of patients accessing mental health services in Thailand calculated per 100,000 population from 2015 to 2021. The total number of patients is 9,496,342 and is shown in bar chart format. Anxiety disorders, Schizophrenia, and Depression were the three disorders with the most mental health patients, with 2,259,434, 2,016,200, and 1,773,618 patients, respectively. Intellectual disabilities, Learning disabilities, and Self-harm were the three disorders with the fewest mental health patients, with 110,469, 118,088, and 147,807 patients, respectively.
 
 
 
@@ -87,7 +87,7 @@ Figure 2 depicts the percentage of the number of patients accessing mental healt
 <b>Figure 3</b> The map Shows the location of mental health services rate at region, namely the provinces of Thailand, which has a total of 77 provinces.
 </p>
 
-Figure 3 depicts the study region's geographical location, namely the provinces of Thailand, which has a total of 77 provinces. The number of patients accessing mental health services for all 11 mental health services from 2015 to 2021 was: Alcoholism, Drug addiction (excluding Amphetamine addiction), Schizophrenia, Depression, Anxiety disorder, Autistic disorder, Intellectual disabilities, Learning disabilities, Dementia, Self-harm, and Epilepsy. A geographical heat map was used to present the spatial distribution of the number of patients over a seven-year period, allowing the mapping to highlight the geographic distribution of disease-identifying mental disorders using different colors. The darker the color displayed in a province, the greater the amount of traffic in that province. The GEO package file in the Global Administrative Region Database (GADM) Version 3.6 was used to create all the maps.
+*Figure 3* depicts the study region's geographical location, namely the provinces of Thailand, which has a total of 77 provinces. The number of patients accessing mental health services for all 11 mental health services from 2015 to 2021 was: Alcoholism, Drug addiction (excluding Amphetamine addiction), Schizophrenia, Depression, Anxiety disorder, Autistic disorder, Intellectual disabilities, Learning disabilities, Dementia, Self-harm, and Epilepsy. A geographical heat map was used to present the spatial distribution of the number of patients over a seven-year period, allowing the mapping to highlight the geographic distribution of disease-identifying mental disorders using different colors. The darker the color displayed in a province, the greater the amount of traffic in that province. The GEO package file in the Global Administrative Region Database (GADM) Version 3.6 was used to create all the maps.
 
 
 **2. Cluster analysis**
@@ -107,8 +107,8 @@ disorder and Self-harm. Dementia and Epilepsy are not highly correlated with the
 
 1. **K-Prototype** 
 
-Below are the results of finding the optimal number of clusters using the Elbow method (Figure 5A) and the
-Silhouette coefficient (Figure 5B). In the elbow method, we can see a bend where the graph looks like an elbow at K = 2 and K
+Below are the results of finding the optimal number of clusters using the Elbow method (*Figure 5A*) and the
+Silhouette coefficient (*Figure 5B*). In the elbow method, we can see a bend where the graph looks like an elbow at K = 2 and K
 = 3 in the left graph. In the right graph, it shows that the group of disorder is well-separated from other groups at K = 2 and K =
 3 due to the higher silhouette coefficient than the other number of clusters (K). It indicates that 2 and 3 are the optimal number of clusters. 
 <p align="center">
@@ -122,7 +122,7 @@ We applied K-Prototype to cluster the mental disorder. The algorithm clusters th
 similarity of the number of patients accessing mental health services (per 100,000 population in every province 2015-2021) and
 the dissimilarity of the disorders’ names. When using K = 2, it divides 11 disorders into 2 groups. The first group includes
 Schizophrenia, Depression and Anxiety disorder, and another group includes the rest. The result of the K-Prototype using K = 3
-as represented in Figure 6 is quite similar to the correlation matrix, which also clusters disorders into 3 groups. In the correlation
+as represented in *Figure 6* is quite similar to the correlation matrix, which also clusters disorders into 3 groups. In the correlation
 matrix, Dementia and Epilepsy are not highly correlated with the rest of the disorders. For the K-prototype clustering result,
 Dementia was assigned to the same group of Intellectual disabilities, Learning disabilities, Autistic disorder and Self-harm.
 Epilepsy was assigned to the same group of Alcoholism and Drug addiction (excluding Amphetamine addiction). As we can see,
@@ -138,8 +138,8 @@ other
 2. **Agglomerative hierarchical clustering**
 
 We applied agglomerative hierarchical clustering and Ward's method to cluster the mental disorders. As a result, the
-dendrogram in Figure 7 shows two major branches, A and B, by using a line cut-point to obtain clusters. We found three
-clusters, represented in Figure 8. The first group includes Schizophrenia, Depression and Anxiety disorders. Subsequently, the
+dendrogram in *Figure 7* shows two major branches, A and B, by using a line cut-point to obtain clusters. We found three
+clusters, represented in *Figure 8*. The first group includes Schizophrenia, Depression and Anxiety disorders. Subsequently, the
 second group includes Dementia, Intellectual disabilities, Learning disabilities, Autistic disorder and Self-harm. The third group
 includes Alcoholism, Drug addiction and Epilepsy.
 
@@ -178,7 +178,7 @@ However, there is a slight difference when looking at the yearly calculated p-va
 has an interesting cluster pattern and exceeds several years in only 8 disorders: Alcoholism, Drug addiction (excluding
 Amphetamine addiction), Schizophrenia, Depression, Anxiety disorder, Autistic disorder, Intellectual disabilities, and Learning
 disabilities. It is divided into three subgroups: addiction, mood disorder, and brain disorder. This is why the researchers decided
-to investigate the relationship by calculating the correlation coefficient between seven disorder pairs, as shown in Figure 10.
+to investigate the relationship by calculating the correlation coefficient between seven disorder pairs, as shown in *Figure 10*.
 
 - **Local Spatial Detection**
 
@@ -188,7 +188,7 @@ disorder. The interpretation of the defined color results is described in the me
 Moran's I). The GEO package file in the Global Administrative Region Database (GADM) Version 3.6 was used to create all the
 maps.
 
-Figure 9 shows a cluster pattern of detectable mental health services for each disorder in Thailand. For spatial
+*Figure 9* shows a cluster pattern of detectable mental health services for each disorder in Thailand. For spatial
 interpretation, it was found that most clusters in the northern region had access to all 7 disorders, namely Depression, Anxiety
 disorder, Intellectual disabilities, Learning disabilities, Autistic disorder, Self-harm and Epilepsy. In the northeast region, there
 were clusters of the number of patients using mental health services for all 4 disorders, namely Alcoholism, Drug addiction,
@@ -196,7 +196,7 @@ Depression and Schizophrenia. In the central region, there was a cluster of pati
 disorders, namely Dementia and Self harm. For the cluster, there were 2 clusters of patients accessing mental health services in
 the southern region: Anxiety disorder and Learning disabilities. In the eastern region, there is also a cluster of patients accessing
 mental health services for 2 disorders: Autistic disorder and Epilepsy. The last area, the western region, had a cluster of patients
-accessing mental health services only for learning disabilities. As shown in Figure 9,
+accessing mental health services only for learning disabilities. As shown in *Figure 9*,
 
 <p align="center">
 <img src="https://github.com/mill-ornrakorn/Spatiotemporal-epidemiology-and-analysis-of-mental-health-conditions-in-Thailand/blob/main/pic%20for%20readme/5.jpg?raw=true" alt= "mapLocal" height="400">
@@ -210,14 +210,14 @@ blue, Low-Low were labeled by blue and Not significant were labeled by gray.
 
 - **Disorder pairs**
 
-The correlation coefficient was calculated at a national level. The results are shown in Figure 4. In addition to
+The correlation coefficient was calculated at a national level. The results are shown in *Figure 4*. In addition to
 arranging the disorders with similar correlation coefficients into the same cluster together. If determined using correlation data
 and pattern finding data calculated from global Moran's I analysis together, it is interesting to carry out a further study to find
 the correlation between pairs of disorders by calculating correlation detailed at the provincial level and using 7-year cumulative
 patients accessing mental health services data from 2015 to 2021. For interpretation, if a dark area is found in any province, it
 means these disorder pairs have a similar number of patients accessing mental health services that were continued for many
 years in such provinces. In other words, a relationship was found between these disorder pairs. Which found a total of 7
-relationships with interest from 8 disorders as shown in Figure 10: Alcoholism and Drug addiction (excluding Amphetamine
+relationships with interest from 8 disorders as shown in *Figure 10*: Alcoholism and Drug addiction (excluding Amphetamine
 addiction) with a national correlation coefficient of 0.69. The second pair is Schizophrenia and Depression, with a correlation
 coefficient of 0.19. The third pair is Schizophrenia and Anxiety disorder, a correlation coefficient of 0.62. The fourth pair is
 Depression and Anxiety disorder with correlation coefficient of 0.32. The fifth pair is Autistic disorder and Intellectual disabilities
@@ -231,7 +231,7 @@ disorders were also found. In most provinces in the Northeast, there was a relat
 Schizophrenia and Anxiety disorder. The central and southern regions found the same pairs of disorders, namely, brain-related
 disorders (Autistic disorder, Intellectual disabilities and Learning disabilities). For the western ans eastern region, it was found a
 relationship of disorder pairs; Schizophrenia and Depression and the second pair is Depression and Anxiety disorder are shown
-in Figure 10.
+in *Figure 10*.
 
 <p align="center">
 <img src="https://github.com/mill-ornrakorn/Spatiotemporal-epidemiology-and-analysis-of-mental-health-conditions-in-Thailand/blob/main/pic%20for%20readme/6.jpg?raw=true" alt= "mapdisorderpairs" height="250">
@@ -385,7 +385,7 @@ Spatiotemporal epidemiology and analysis of mental health conditions in Thailand
 ## Data source 📁
 ข้อมูลที่ใช้ในการวิเคราะห์ ประกอบด้วย ดังนี้ 
 
-1. [รายงานผู้ป่วยที่เข้ามาใช้บริการด้านจิตเวช](https://dmh.go.th/report/datacenter/hdc/reds.asp) ตั้งแต่ปีค.ศ. 2015 ถึง 2021 รวบรวมมาจาก กรมสุขภาพจิต กระทรวงสาธารณสุข 
+1. [รายงานผู้ป่วยที่เข้ามาใช้บริการด้านจิตเวช](https://dmh.go.th/report/datacenter/dmh/) ตั้งแต่ปีค.ศ. 2015 ถึง 2021 รวบรวมมาจาก กรมสุขภาพจิต กระทรวงสาธารณสุข 
 
 2. [สถิติประชากรกลางปีของประเทศไทย](https://stat.bora.dopa.go.th/stat/statnew/statMONTH/statmonth/#/mainpage) รวบรวมมาจาก ระบบสถิติทางการทะเบียน
 
